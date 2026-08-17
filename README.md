@@ -10,7 +10,7 @@ This tool allows you to upload 10,000+ products to Shopify without using any pai
 
 ## 2. File Name: main.py
 
-- Copay and paste that code of main.py file
+- Copy and paste that code of main.py file
 
 ## 3: Place your products.xlsx in the same folder as main.py.
 
